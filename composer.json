@@ -1,5 +1,5 @@
 {
-    "name" : "philkra/elastic-apm-php-agent",
+    "name" : "caseymason25/elastic-apm-php-agent",
     "description": "A php agent for Elastic APM",
     "license": "MIT",
     "require" : {
@@ -20,12 +20,12 @@
     },
     "autoload" : {
         "psr-4" : {
-            "PhilKra\\": "src/"
+            "caseymason25\\": "src/"
         }
     },
     "autoload-dev": {
     "psr-4": {
-        "PhilKra\\Tests\\": "tests/"
+        "caseymason25\\Tests\\": "tests/"
     }
   },
     "config" : {
